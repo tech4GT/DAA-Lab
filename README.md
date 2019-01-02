@@ -7,10 +7,10 @@
 6.	WAP of minimum spanning tree using Kruskal algorithm.
 7.	WAP of minimum spanning tree using Prim’s algorithm.
 8.	WAP to implement matrix chain multiplication
-9.	Code to find the shortest path in graph using Dijkstra’s algorithm.
+9.	To implement matrix chain multiplication problem using dynamic programming.
 10.	Code to find the shortest path using Bellman-Ford algorithm.
 11.	To implement LCS problem using Dynamic Programming.
-12.	To implement matrix chain multiplication problem using dynamic programming.
+12.	Code to find the shortest path in graph using Dijkstra’s algorithm.
 13.	Code and analyze to find the minimum spanning tree in a weighted, undirected graph.
 14.	Code and analyze to do a depth-first search (DFS) on an undirected graph.
 15.	Code and analyze to do a breadth-first search (BFS) on an undirected graph
